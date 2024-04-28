@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfarooqalii&label=Profile%20views&color=0e75b6&style=flat" alt="syedfarooqalii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedfarooqalii" alt="syedfarooqalii" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/syedfarooqali" target="blank"><img src="https://img.shields.io/twitter/follow/syedfarooqali?logo=twitter&style=for-the-badge" alt="syedfarooqali" /></a> </p>
 
-
+<p align="centre"><img src="https://github.com/Zeeshan-Haider-Soomro/Zeeshan-Haider-Soomro/blob/main/banner-software-development-3d-laptop-vector-46322083.avif" alt="image" width="160"></p>
 
 • 💪🏻 I'm a Web3, and AI Enthusiast.
 <br>
@@ -25,7 +23,7 @@
 • 🔭 I’m currently working on [Multiple Typescript Projects]
 (https://github.com/SyedFarooqAlii)
 <br>
-• 👨‍💻 All of my projects are available at [https://github.com/SyedFarooqAlii](https://github.com/SyedFarooqAlii)
+• 👨‍💻 All of my projects are available at (https://github.com/SyedFarooqAlii)
 <br>
 • 📫 How to reach me **syedfarooqali15@gmail.com**
 <br>
