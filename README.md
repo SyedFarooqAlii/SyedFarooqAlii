@@ -10,8 +10,11 @@
 
 
 • 💪🏻 I'm a Web3, and AI Enthusiast.
+<br>
 • 👨‍💻 I'm a full-stack Developer from Pakistan.
+<br>
 • 🌱 I’m currently Learning advanced Programming stuffs.
+<br>
 <!--• 🌊 I'm specialize in Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.
 • 📗 I'm currently Teaching Programming to 3k+ Students at GIAIC, and managing the official community of thousands of students on Discord as a Student Ambassador.
 • ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content & Technical Writing.-->
@@ -19,14 +22,18 @@
 
 
 
-- 📗 I’m currently learning **From Governor's IT Initiative for Web 3.0 Developer, Gen AI & Metaverse.**
+• 📗 I’m currently learning **From Governor's IT Initiative for Web 3.0 Developer, Gen AI & Metaverse.**
+<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.
-- 🔭 I’m currently working on [Multiple Typescript Projects](https://github.com/SyedFarooqAlii)
-- 👨‍💻 All of my projects are available at [https://github.com/SyedFarooqAlii](https://github.com/SyedFarooqAlii)
+<br>
+• 🔭 I’m currently working on [Multiple Typescript Projects]
+(https://github.com/SyedFarooqAlii)
+<br>
+• 👨‍💻 All of my projects are available at [https://github.com/SyedFarooqAlii](https://github.com/SyedFarooqAlii)
 
 - 📫 How to reach me **syedfarooqali15@gmail.com**
 
-- 📄 Know about my experiences [Currently Biggener](Currently Biggener)
+• 📄 Know about my experiences [Currently Biggener](Currently Biggener)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
