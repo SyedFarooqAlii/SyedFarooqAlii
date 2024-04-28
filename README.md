@@ -25,8 +25,9 @@
 • 📫 How to reach me **syedfarooqali15@gmail.com**
 <br>
 • 📄 Know about my experiences (Currently Biggener)
+<h3 align="left down">Connect with me:
 <img align="left" src="https://camo.githubusercontent.com/4ccd548e76ac64bd14d316108c5ded2680335b91c7d019c2d5c61b025b897f8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="image" height="30">
-<h3 align="left down">Connect with me:</h3>
+</h3>
 <p align="left">
 <a href="https://twitter.com/syedfarooqali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedfarooqali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-farooq-ali-8328b4267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-farooq-ali-8328b4267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
