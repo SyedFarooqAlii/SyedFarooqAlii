@@ -7,10 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/syedfarooqali" target="blank"><img src="https://img.shields.io/twitter/follow/syedfarooqali?logo=twitter&style=for-the-badge" alt="syedfarooqali" /></a> </p>
 
+
+
+• 💪🏻 I'm a Web3, and AI Enthusiast.
+• 👨‍💻 I'm a full-stack Developer from Pakistan.
+• 🌱 I’m currently Learning advanced Programming stuffs.
+<!--• 🌊 I'm specialize in Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.
+• 📗 I'm currently Teaching Programming to 3k+ Students at GIAIC, and managing the official community of thousands of students on Discord as a Student Ambassador.
+• ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content & Technical Writing.-->
+
+
+
+
+- 📗 I’m currently learning **From Governor's IT Initiative for Web 3.0 Developer, Gen AI & Metaverse.**
+• 🚀 I'm a Consistent, Hard-working, and a Motivated person.
 - 🔭 I’m currently working on [Multiple Typescript Projects](https://github.com/SyedFarooqAlii)
-
-- 🌱 I’m currently learning **From Governor's IT Initiative for Web 3.0 Developer, Gen AI & Metaverse.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SyedFarooqAlii](https://github.com/SyedFarooqAlii)
 
 - 📫 How to reach me **syedfarooqali15@gmail.com**
