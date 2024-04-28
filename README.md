@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedfarooqali" target="blank"><img src="https://img.shields.io/twitter/follow/syedfarooqali?logo=twitter&style=for-the-badge" alt="syedfarooqali" /></a> </p>
 
-<p align="centre"><img src="https://github.com/Zeeshan-Haider-Soomro/Zeeshan-Haider-Soomro/blob/main/banner-software-development-3d-laptop-vector-46322083.avif" alt="image" width="160"></p>
+<p align="centre"><img src="content://media/external/downloads/1000073927" alt="image" width="200"></p>
 
 • 💪🏻 I'm a Web3, and AI Enthusiast.
 <br>
