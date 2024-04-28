@@ -13,9 +13,6 @@
 <br>
 • 🌱 I’m currently Learning advanced Programming stuffs.
 <br>
-<!--• 🌊 I'm specialize in Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.
-• 📗 I'm currently Teaching Programming to 3k+ Students at GIAIC, and managing the official community of thousands of students on Discord as a Student Ambassador.
-• ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content & Technical Writing.-->
 • 📗 I’m currently learning **From Governor's IT Initiative for Web 3.0 Developer, Gen AI & Metaverse.**
 <br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.
@@ -23,7 +20,7 @@
 • 🔭 I’m currently working on [Multiple Typescript Projects]
 (https://github.com/SyedFarooqAlii)
 <br>
-• 👨‍💻 All of my projects are available at (https://github.com/SyedFarooqAlii)
+• 👨‍💻 All of my projects are available at <a href="https://github.com/SyedFarooqAlii">Click Here</a>
 <br>
 • 📫 How to reach me **syedfarooqali15@gmail.com**
 <br>
