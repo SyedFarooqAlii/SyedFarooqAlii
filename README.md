@@ -1,11 +1,10 @@
+<p align="centre"><img src="https://github.com/Zeeshan-Haider-Soomro/Zeeshan-Haider-Soomro/blob/main/banner-software-development-3d-laptop-vector-46322083.avif" alt="image" width="300"></p>
 <h1 align="center">Hi 👋, I'm Syed Farooq Ali</h1>
 <h3 align="center">✨A Passionate Student Of Web 3.0 ⚡| Gen AI |🧑🏻‍💻 Metaverse From Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedfarooqalii&label=Profile%20views&color=0e75b6&style=flat" alt="syedfarooqalii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/syedfarooqali" target="blank"><img src="https://img.shields.io/twitter/follow/syedfarooqali?logo=twitter&style=for-the-badge" alt="syedfarooqali" /></a> </p>
-
-<p align="centre"><img src="https://github.com/Zeeshan-Haider-Soomro/Zeeshan-Haider-Soomro/blob/main/banner-software-development-3d-laptop-vector-46322083.avif" alt="image" width="200"></p>
 
 • 💪🏻 I'm a Web3, and AI Enthusiast.
 <br>
