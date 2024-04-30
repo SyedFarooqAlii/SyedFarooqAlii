@@ -44,4 +44,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfarooqalii&show_icons=true&locale=en&layout=compact" alt="syedfarooqalii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedfarooqalii&show_icons=true&locale=en" alt="syedfarooqalii" /></p>
-
+<p align="center">                             منزل سے آگے بڑھ کر
+             منزل تلاش کر                        مل جائے تجھکو دریا تو                      سمندر تلاش کر 
+    ہر  شخص جل رہا ہے عداوت کی آگ میں       اس آگ کو بجھا دے وہ پانی تلاش کر         سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں       دنیا تیری بدل دے وہ سجدہ تلاش کر 
+    ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے       پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر    
+      ستاروں سے آگے جہاں اور بھی ہیں            ابھی عشق کے امتحاں اور بھی ہیں 
+</p>
