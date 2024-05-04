@@ -24,7 +24,7 @@
 • 📫 How to reach me **syedfarooqali15@gmail.com**
 <br>
 • 📄 Know about my experiences (Currently Biggener)
-<h3 align="left">🌐Connect with me:
+<h3 justify-content="centre">🌐Connect with me:
 </h3>
 <p align="left">
 <a href="https://twitter.com/syedfarooqali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedfarooqali" height="30" width="40" /></a>
